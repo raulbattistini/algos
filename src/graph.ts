@@ -11,3 +11,4 @@ export function add_node_list(
 
     l.push({ to, weight });
 }
+// an example of graphs is regex'es, they traverse the number n times and this deteriorates performance a lot
